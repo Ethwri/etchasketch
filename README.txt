@@ -1,0 +1,1 @@
+A basic javascript project that will allow a grid of divs to be coloured when they are hovered over with the mouse.
