@@ -1,0 +1,12 @@
+/* Header */
+
+
+/* Canvas */
+div.canvas {
+	width: 960px;
+}
+div.sketch {
+	background-color: #F0F0F0;
+	width: 20px;
+	height: 20px;
+}
