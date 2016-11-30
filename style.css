@@ -1,5 +1,20 @@
 /* Header */
+#header {
+	margin: 0 auto;
+	line-height: 0.5;
+	margin-bottom: 30px;
+}
+/* Settings */
+div.size-left {
+	display:inline-block;
+	vertical-align: top;
+}
 
+div.colour-right {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 40px;
+}
 
 /* Canvas */
 div.canvas {
